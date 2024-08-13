@@ -1,5 +1,6 @@
 # Software Evolution Practical Session: GitHub Bots
 
+
 This repository contains materials and scripts for the Software Evolution practical session focused on identifying and analyzing bots in GitHub repositories.
 
 ## Overview
