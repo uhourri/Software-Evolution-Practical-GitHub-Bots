@@ -2,6 +2,7 @@
 
 This repository contains materials and scripts for the Software Evolution practical session focused on identifying and analyzing bots in GitHub repositories.
 
+
 ## Overview
 
 The practical session aims to provide hands-on experience in detecting and analyzing automated agents (bot accounts and GitHub Apps) contributing to GitHub repositories. Participants will utilize bot identification tools, GitHub API, and data analysis techniques to understand the presence and behavior of bots in practice.
